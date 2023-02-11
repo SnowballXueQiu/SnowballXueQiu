@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Snowball_233.
+![](https://komarev.com/ghpvc/?username=SnowballXueQiu)  
 
 <!--
 **SnowballXueQiu/SnowballXueQiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +21,8 @@ Here are some ideas to get you started:
 
 <figure><embed src="https://wakatime.com/share/@ea22cbac-f1f5-4e51-a8ba-aa812b46f257/8dfb37dd-29d4-4d73-9593-0ee5ddb3f814.svg"></embed></figure>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SnowballXueQiu&show_icons=true&icon_color=990000&title_color=990000)    
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowballXueQiu&layout=compact&title_color=990000&hide=javascript,html)   
-![](https://komarev.com/ghpvc/?username=SnowballXueQiu)  
+![Stats](https://github-readme-stats.vercel.app/api?username=SnowballXueQiu&show_icons=true&icon_color=0099CC&title_color=0099CC&)    
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowballXueQiu&layout=compact&title_color=0099CC&&hide=javascript,html)   
 
 <details>
     <summary>
@@ -30,6 +30,4 @@ Here are some ideas to get you started:
     </summary>
 
 <h3 align="center">Wakatime</h3>
-<p align="center">
-    <figure><embed src="https://wakatime.com/share/@ea22cbac-f1f5-4e51-a8ba-aa812b46f257/8dfb37dd-29d4-4d73-9593-0ee5ddb3f814.svg"></embed></figure>
-</p>
+<embed src="https://wakatime.com/share/@ea22cbac-f1f5-4e51-a8ba-aa812b46f257/62c56f28-453d-4bb5-958d-5f880ecaf59a.svg"></embed>
