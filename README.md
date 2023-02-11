@@ -29,5 +29,6 @@ Here are some ideas to get you started:
         <b>More about me</b>
     </summary>
 
-<h3 align="center">Wakatime</h3>
-<embed src="https://wakatime.com/share/@ea22cbac-f1f5-4e51-a8ba-aa812b46f257/62c56f28-453d-4bb5-958d-5f880ecaf59a.svg"></embed>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
