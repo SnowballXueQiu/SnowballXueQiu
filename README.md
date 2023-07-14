@@ -1,5 +1,6 @@
 ### Hi there, I'm Snowball_233.
 ![](https://komarev.com/ghpvc/?username=SnowballXueQiu)  
+[![wakatime](https://wakatime.com/badge/user/ea22cbac-f1f5-4e51-a8ba-aa812b46f257.svg)](https://wakatime.com/@ea22cbac-f1f5-4e51-a8ba-aa812b46f257)
 
 <!--
 **SnowballXueQiu/SnowballXueQiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
