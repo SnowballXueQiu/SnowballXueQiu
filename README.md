@@ -1,6 +1,11 @@
-### Hi there, I'm Snowball_233.
+<div align='center'>
+  
+[![header]][home] 
+
 ![](https://komarev.com/ghpvc/?username=SnowballXueQiu)  
 [![wakatime](https://wakatime.com/badge/user/ea22cbac-f1f5-4e51-a8ba-aa812b46f257.svg)](https://wakatime.com/@ea22cbac-f1f5-4e51-a8ba-aa812b46f257)
+
+</div>
 
 <!--
 **SnowballXueQiu/SnowballXueQiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +29,6 @@ Here are some ideas to get you started:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SnowballXueQiu&show_icons=true&icon_color=0099CC&title_color=0099CC&)    
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowballXueQiu&layout=compact&title_color=0099CC)   
+
+[home]: https://github.com/SnowballXueQiu
+[header]: https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=雪球(Snowball_233)&fontSize=50
