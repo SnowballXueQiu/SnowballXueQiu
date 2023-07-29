@@ -38,7 +38,7 @@ func selfIntroduction() map[string]string {
             <div align="left">
                 <span>QQ : 2957202260</span> <br />
                 <span>Email : </span> <a href="mailto:wangrb.qq@outlook.com">wangrb.qq@outlook.com</a> <br />
-                <span>Twitter : </span> <a href="https://twitter.com/snowball_233">Snowball_233</a> <br />
+                <span>Twitter : </span> <a href="https://twitter.com/snowball_233">@snowball_233</a> <br />
                 <span>Telegram : </span> <a href="https://t.me/Snowball_233">@Snowball_233</a> <br />
                 <span>Discord : Snowball_233 #2048</span> 
             </div>
