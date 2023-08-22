@@ -19,12 +19,13 @@ func selfIntroduction() map[string]string {
 		"Pronouns" : "He/Him",
 		"Job"      : "High school student, Team Vastsea Administrator",
 		"Hobby"    : "Math, Music, Coffee",
-		"Game"     : "Minecraft"
+		"Game"     : "Minecraft，PVZ"
 		"Ability"  : "Premiere Pro, DaVinci",
 		"Fortune"  : "Poor",
 		"System"   : "Windows, Ubuntu",
 		"Editor"   : "JetBrains, VSCode, Dev-C++",
-		"Learning" : "Go, Rust, C++",
+		"Learning" : "C++, Go, Rust, Python",
+		"DevOps"   : "Docker, GitHub Actions, Jenkins",
 	}
 	return Snowball_233
 }
@@ -38,7 +39,7 @@ func selfIntroduction() map[string]string {
             <div align="left">
                 <span>QQ : 2957202260</span> <br />
                 <span>Email : </span> <a href="mailto:wangrb.qq@outlook.com">wangrb.qq@outlook.com</a> <br />
-                <span>Twitter : </span> <a href="https://twitter.com/snowball_233">@snowball_233</a> <br />
+                <span>Twitter : </span> <a href="https://twitter.com/SnowballLoveYou">@SnowballLoveYou</a> <br />
                 <span>Telegram : </span> <a href="https://t.me/Snowball_233">@Snowball_233</a> <br />
                 <span>Discord : Snowball_233 #2048</span> 
             </div>
