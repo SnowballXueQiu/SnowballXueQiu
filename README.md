@@ -16,16 +16,18 @@
 func selfIntroduction() map[string]string {
 	var Snowball_233 = make(map[string]string)
 	Snowball_233 = map[string]string{
-		"Pronouns" : "He/Him",
-		"Job"      : "High school student, Team Vastsea Administrator",
-		"Hobby"    : "Math, Music, Coffee",
-		"Game"     : "Minecraft，PVZ"
-		"Ability"  : "Premiere Pro, DaVinci",
-		"Fortune"  : "Poor",
-		"System"   : "Windows, Ubuntu",
-		"Editor"   : "JetBrains, VSCode, Dev-C++",
-		"Learning" : "C++, Go, Rust, Python",
-		"DevOps"   : "Docker, GitHub Actions, Jenkins",
+		"Pronouns"  : "He/Him",
+		"Job"       : "High school student",
+		"Work in"   : "Vastsea, FloraCore, INF Network"
+		"Hobby"     : "Math, Music, Coffee",
+		"Game"      : "Minecraft，PVZ"
+		"Active in" : "QQ, Telegram"
+		"Ability"   : "Premiere Pro, DaVinci",
+		"Fortune"   : "Poor",
+		"System"    : "Windows, Ubuntu",
+		"Editor"    : "JetBrains Tools, VSCode, Dev-C++",
+		"Learning"  : "C++, Go, Rust, Python",
+		"DevOps"    : "Docker, GitHub Actions",
 	}
 	return Snowball_233
 }
