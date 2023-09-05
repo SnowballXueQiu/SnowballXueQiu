@@ -20,7 +20,7 @@ func selfIntroduction() map[string]string {
 		"Job"       : "High school student",
 		"Work in"   : "Vastsea, FloraCore, INF Network"
 		"Hobby"     : "Math, Music, Coffee",
-		"Game"      : "Minecraft，PVZ"
+		"Game"      : "Minecraft, PVZ"
 		"Active in" : "QQ, Telegram"
 		"Ability"   : "Premiere Pro, DaVinci",
 		"Fortune"   : "Poor",
