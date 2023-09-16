@@ -35,7 +35,7 @@ func selfIntroduction() map[string]string {
 
 <p align="center">
     <a>
-        <img alt="States" src="https://github-readme-stats.vercel.app/api?username=SnowballXueQiu&show_icons=true&icon_color=0099CC&title_color=0099CC&?include_all_commits=true&?count_private=true" align="right" style="vertical-align: middle;">
+        <img alt="States" src="https://github-readme-stats.vercel.app/api?username=SnowballXueQiu&show_icons=true&icon_color=0099CC&title_color=0099CC&include_all_commits=true&count_private=true" align="right" style="vertical-align: middle;">
         <a>
             <h1 align="center">Contact Me</h1>
             <div align="left">
