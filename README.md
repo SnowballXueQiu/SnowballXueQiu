@@ -19,7 +19,7 @@ func selfIntroduction() map[string]string {
 		"Pronouns"  : "He/Him",
 		"Job"       : "High school student",
 		"Work in"   : "Vastsea, FloraCore, INF Network"
-		"Hobby"     : "Math, Music, Coffee",
+		"Hobby"     : "Math, Coffee, Music",
 		"Game"      : "Minecraft, PVZ"
 		"Active in" : "QQ, Telegram"
 		"Ability"   : "Premiere Pro, DaVinci",
