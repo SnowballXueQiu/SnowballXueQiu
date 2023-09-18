@@ -50,6 +50,10 @@ func selfIntroduction() map[string]string {
     <br />
 </p>
 
+<div align="center">
+	<img src="./github-metrics.svg" alt="Metrics" width="100%" />
+</div>
+
 <div align="right">
     Designed with :heart: by <a href="https://github.com/SnowballXueQiu" target="_blank">Snowball_233</a>.
 </div>
