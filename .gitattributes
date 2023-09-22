@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+*.md linguist-detectable=true
+*.md linguist-documentation=false
+*.yml linguist-detectable=true
+*.yml linguist-language=YAML
+*.* linguist-detectable=true
