@@ -10,6 +10,8 @@
       </a>
   </p>
 
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" style="text-decoration: none;">
+
 </div>
 
 ```go
