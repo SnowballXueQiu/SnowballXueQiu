@@ -18,7 +18,6 @@
 func selfIntroduction() map[string]string {
 	var Snowball_233 = make(map[string]string)
 	Snowball_233 = map[string]string{
-		"Pronouns"  : "He/Him",
 		"Job"       : "High school student",
 		"Work in"   : "Vastsea, FloraCore, INF Network"
 		"Hobby"     : "Math, Coffee, Music",
