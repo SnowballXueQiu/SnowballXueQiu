@@ -44,7 +44,7 @@ func selfIntroduction() map[string]string {
                 <span>Email : </span> <a href="mailto:wangrb.qq@outlook.com">wangrb.qq@outlook.com</a> <br />
                 <span>Twitter : </span> <a href="https://twitter.com/SnowballLoveYou">@SnowballLoveYou</a> <br />
                 <span>Telegram : </span> <a href="https://t.me/Snowball_233">@Snowball_233</a> <br />
-                <span>Discord : Snowball_233 #2048</span> 
+                <span>Discord : SnowballXueQiu</span> 
             </div>
         </a>
     </a>
