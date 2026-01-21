@@ -40,7 +40,7 @@ func selfIntroduction() map[string]string {
 
 * [瀚海工艺 Vastsea](https://github.com/TeamVastsea) 联合创始人
 * [苦力怕论坛 klpbbs](https://klpbbs.com/) 技术总管 & 版主
-* [course.rs《Rust 语言圣经》](https://course,rs) Collaborator
+* [course.rs《Rust 语言圣经》](https://course.rs) Collaborator
 * [MedgeAI](https://medgeai.cn) 前端开发实习中
 
 Web / Rust / 开源 / LLM / AGENT / AI
