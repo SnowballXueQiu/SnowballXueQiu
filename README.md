@@ -1,95 +1,23 @@
-<!--suppress ALL -->
-<div align='center'>
+![Snowball_233, student and developer. Dev at Vastsea & KLPBBS, now working at Respan.](assets/header.en.svg)
 
-[![header]][home]
+**English** · [简体中文](./README.zh-CN.md)
 
-  <p align="center">
-      <img alt="Profile View" src="https://komarev.com/ghpvc/?username=SnowballXueQiu&style=flat-square"/>
-      <a href="https://wakatime.com/@ea22cbac-f1f5-4e51-a8ba-aa812b46f257">
-          <img alt="Total time coded since Oct 25 2020" src="https://wakatime.com/badge/user/ea22cbac-f1f5-4e51-a8ba-aa812b46f257.svg?style=flat-square"/>
-      </a>
-  </p>
+Developer at [@TeamVastsea](https://github.com/TeamVastsea) and [@klpbbs-dev](https://github.com/klpbbs-dev), currently working at [@respanai](https://github.com/respanai).
 
-  <!-- <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" style="text-decoration: none;"> -->
+I'm studying Artificial Intelligence at Tianjin Normal University. I like turning ideas into things that run and get used: web apps, native apps, backends, and now and then a Minecraft server or plugin. AI tools help me get from idea to prototype faster.
 
-</div> <br />
+## What I work on
 
-<!-- ```go
-func selfIntroduction() map[string]string {
-	var Snowball_233 = make(map[string]string)
-	Snowball_233 = map[string]string{
-		"Job"       : "High school student",
-		"Work in"   : "Vastsea, FloraCore, INF Network"
-		"Hobby"     : "Math, Coffee, Music",
-		"Game"      : "Minecraft, PVZ"
-		"Active in" : "QQ, Telegram"
-		"Ability"   : "Premiere Pro, DaVinci",
-		"Fortune"   : "Poor",
-		"System"    : "Windows, Ubuntu",
-		"Editor"    : "JetBrains Tools, VSCode, Dev-C++",
-		"Learning"  : "C++, Go, Rust, Python",
-		"DevOps"    : "Docker, GitHub Actions",
-	}
-	return Snowball_233
-}
-``` -->
+- **[Vastsea](https://github.com/TeamVastsea)**: co-founded in 2021. We're the team behind a next-gen rail transit Minecraft server.
+- **[KLPBBS](https://klpbbs.com)**: head of tech and moderator at the Creeper Forum.
+- **[The Rust Course](https://course.rs)**: collaborator since 2024.
+- **[MCSL2](https://github.com/MCSLTeam/MCSL2)**: backend for a Minecraft server launcher.
+- **[qwq.my](https://github.com/SnowballXueQiu/qwq.my)**: my site, a drawing that tears open onto a 3D world you can play with. Built with Next.js, Three.js and Remotion.
 
-## 👋 TL;DR
+![Timeline: 2021.09 co-founded Vastsea; 2024.08 collaborator on The Rust Course; 2024.11 head of tech at KLPBBS; 2025.07 3rd Prize and Excellence Award at AdventureX; 2025.09 started a degree in AI at Tianjin Normal University; 2026.10 invited to teach at Hainan Bielefeld UAS; now working at Respan.](assets/timeline.en.svg)
 
-学生, 就读于 `天津师范大学` / 开发者
+![Toolbox. Fluent: TypeScript, JavaScript, Python, Java, Kotlin. Familiar: Rust, Go. Get by: C/C++, C#, Shell, MATLAB. Frontend: Next.js, React, Vue, Three.js, GSAP. Native: Flutter, Dart, SwiftUI. Backend: Node.js, Axum, SeaORM, FastAPI. Database: PostgreSQL, MySQL, SQLite, MongoDB. DevOps: Docker, Kubernetes, GitHub Actions, Gitea. AI tools: Claude Code, Codex.](assets/toolbox.en.svg)
 
-* [瀚海工艺 Vastsea](https://github.com/TeamVastsea) 联合创始人
-* [苦力怕论坛 klpbbs](https://klpbbs.com/) 技术总管 & 版主
-* [course.rs《Rust 语言圣经》](https://course.rs) Collaborator
-* [MedgeAI](https://medgeai.cn) 前端开发实习中
+## Find me
 
-Web / Rust / 开源 / LLM / AGENT / AI
-
----
-
-## 🧠 About me
-
-我是个在读学生，目前主要方向是 **Web 前端**、**AI Agent**。
-
-### 我在干啥
-
-* 和朋友一起折腾 **Vastsea**，从想法到上线，从前后端代码到 CI/CD，全流程踩坑
-* 在 **苦力怕论坛** 担任技术总管兼版主，负责主导论坛重构计划推进
-* 给 **course.rs《Rust 语言圣经》** 做协作，修坑、补内容、处理 Issues & Pull Requests
-* 在 **medgeai 技术部** 做前端实习，接触真实业务和工程流程
-
-### 我喜欢
-
-* 喜欢把复杂问题拆简单
-* 对开源和长期维护的项目有耐心
-
-<p align="center">
-    <a>
-        <img alt="States" src="https://github-readme-stats.vercel.app/api?username=SnowballXueQiu&theme=dark&count_private=true" align="right" style="vertical-align: middle;">
-        <a>
-            <h1 align="center">Contact Me</h1>
-            <div align="left">
-                <span>QQ : 2957202260</span> <br />
-                <span>Email : </span> <a href="mailto:snowballstudio233@gmail.com">snowballstudio233@gmail.com</a> <br />
-                <span>Blog : </span> <a href="https://blog.qwq.my">blog.qwq.my</a> <br />
-                <span>Telegram : </span> <a href="https://t.me/Snowball_233">@Snowball_233</a> <br />
-                <span>Discord : SnowballXueQiu</span> 
-            </div>
-        </a>
-    </a>
-    <br />
-</p>
-
-<!-- <div align="center">
-	<img src="./github-metrics.svg" alt="Metrics" width="100%" />
-</div> -->
-
-
-<div align="right">
-    Designed with :heart: by <a href="https://github.com/SnowballXueQiu" target="_blank">Snowball_233</a>.
-</div>
-
-
-
-[home]: https://github.com/SnowballXueQiu
-[header]: https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Snowball_233&fontSize=50
+[qwq.my](https://qwq.my/en) · [Blog](https://qwq.my/en/blog) · [Email](mailto:snowballstudio233@gmail.com) · [Telegram](https://t.me/Snowball_233) · Discord `SnowballXueQiu`
